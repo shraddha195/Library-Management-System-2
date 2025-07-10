@@ -49,7 +49,8 @@ PostgreSQL 15 or higher.
 
 # output
 
-image
+<img width="489" height="222" alt="Screenshot 2025-07-10 204759" src="https://github.com/user-attachments/assets/292b5511-42c6-4088-aec1-0f87c75a06ec" />
+
 # Contactes
 
 Name: Shraddha Nagorao Shikare
